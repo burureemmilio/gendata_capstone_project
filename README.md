@@ -20,5 +20,5 @@ This project will use data storytelling to examine healthcare access across Keny
 6. Which counties should be prioritized for healthcare investment?
 
 ## Data Source
-[Kenya Health Facilities](https://www.open.africa/en_GB/dataset/health-daya/resource/55984c45-dc41-4d9a-bb95-05f2fdb1d4e2)
+[Kenya Health Facilities](https://www.open.africa/en_GB/dataset/health-daya/resource/55984c45-dc41-4d9a-bb95-05f2fdb1d4e2),
 [Kenya National Bereau of Statistics](https://www.knbs.or.ke/)
