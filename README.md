@@ -1,6 +1,6 @@
 # gendata_capstone_project
 # Kenya healthcare access
-# Problwm definition
+
 ## Problem Definition
 
 Access to quality healthcare remains uneven across Kenya’s counties. While some counties have relatively strong healthcare infrastructure, adequate staffing, and accessible medical facilities, others experience shortages of hospitals, healthcare workers, equipment, and essential services.
