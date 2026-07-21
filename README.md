@@ -1,5 +1,5 @@
 # gendata_capstone_project
-# Kenya healthcare access
+# Kenya Healthcare Access Data Storytelling Project
 
 ## Problem Definition
 
