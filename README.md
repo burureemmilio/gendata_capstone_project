@@ -16,8 +16,9 @@ This project will use data storytelling to examine healthcare access across Keny
 2. Which counties have the highest population pressure per healthcare facility?
 3. How does health-insurance coverage vary across counties?
 4. Is poverty associated with lower healthcare access and utilization?
-5. Which counties have low facility availability and poor maternal-health service use?
+5. Which counties have low facility availability?
 6. Which counties should be prioritized for healthcare investment?
 
 ## Data Source
 [Kenya Health Facilities](https://www.open.africa/en_GB/dataset/health-daya/resource/55984c45-dc41-4d9a-bb95-05f2fdb1d4e2)
+[Kenya National Bereau of Statistics](https://www.knbs.or.ke/)
