@@ -18,3 +18,6 @@ This project will use data storytelling to examine healthcare access across Keny
 4. Is poverty associated with lower healthcare access and utilization?
 5. Which counties have low facility availability and poor maternal-health service use?
 6. Which counties should be prioritized for healthcare investment?
+
+## Data Source
+[Kenya Health Facilities](https://www.open.africa/en_GB/dataset/health-daya/resource/55984c45-dc41-4d9a-bb95-05f2fdb1d4e2)
