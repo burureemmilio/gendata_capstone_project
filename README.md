@@ -21,4 +21,5 @@ This project will use data storytelling to examine healthcare access across Keny
 
 ## Data Source
 [Kenya Health Facilities](https://www.open.africa/en_GB/dataset/health-daya/resource/55984c45-dc41-4d9a-bb95-05f2fdb1d4e2),
-[Kenya National Bereau of Statistics](https://www.knbs.or.ke/)
+[Kenya National Bereau of Statistics](https://www.knbs.or.ke/),
+[Financial Health Status](https://finaccess.knbs.or.ke/financial-health)
