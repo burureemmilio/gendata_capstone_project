@@ -11,3 +11,10 @@ Healthcare data is often presented in separate tables or reports, making it diff
 
 This project will use data storytelling to examine healthcare access across Kenyan counties, identify regional inequalities, highlight the counties and populations facing the greatest access challenges, and explore the factors associated with these gaps. The final interactive Tableau dashboard will transform the data into a visual story that supports evidence-based decision-making and helps stakeholders understand where healthcare resources and interventions may be most urgently needed.
 
+## Research Questions
+1. How does the number of healthcare facilities per 100,000 people vary across counties?
+2. Which counties have the highest population pressure per healthcare facility?
+3. How does health-insurance coverage vary across counties?
+4. Is poverty associated with lower healthcare access and utilization?
+5. Which counties have low facility availability and poor maternal-health service use?
+6. Which counties should be prioritized for healthcare investment?
