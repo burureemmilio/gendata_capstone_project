@@ -20,7 +20,7 @@ This project will use data storytelling to examine healthcare access across Keny
 6. Which counties should be prioritized for healthcare investment?
 
 ## Data Source
-[Kenya Demographic and Health Survey](https://www.knbs.or.ke/reports/kdhs-2022/?utm_source=chatgpt.com)
+[Kenya Demographic and Health Survey](https://www.knbs.or.ke/reports/kdhs-2022/?utm_source=chatgpt.com),
 [Kenya Health Facilities](https://www.open.africa/en_GB/dataset/health-daya/resource/55984c45-dc41-4d9a-bb95-05f2fdb1d4e2),
 [Kenya National Bereau of Statistics](https://www.knbs.or.ke/),
 [Financial Health Status](https://finaccess.knbs.or.ke/financial-health)
