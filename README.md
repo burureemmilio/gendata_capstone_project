@@ -49,7 +49,7 @@ What regional patterns emerge when healthcare indicators are combined?
 [Kenya Health Facilities](https://www.open.africa/en_GB/dataset/health-daya/resource/55984c45-dc41-4d9a-bb95-05f2fdb1d4e2),
 [Kenya National Bereau of Statistics](https://www.knbs.or.ke/),
 [Financial Health Status](https://finaccess.knbs.or.ke/financial-health),
-[DHS Program](https://dhsprogram.com/publications/publication-FR380-DHS-Final-Reports.cfm)
+[DHS Program](https://dhsprogram.com/publications/publication-FR380-DHS-Final-Reports.cfm),[Kenya Facilities Assessment](https://open.africa/dataset/kenya-harmonized-health-facility-assessment-khfa-2018-2019)
 
 ## Tools Used
 Excel - Data cleaning and preprocessing
