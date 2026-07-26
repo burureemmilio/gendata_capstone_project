@@ -50,3 +50,15 @@ What regional patterns emerge when healthcare indicators are combined?
 [Kenya National Bereau of Statistics](https://www.knbs.or.ke/),
 [Financial Health Status](https://finaccess.knbs.or.ke/financial-health),
 [DHS Program](https://dhsprogram.com/publications/publication-FR380-DHS-Final-Reports.cfm)
+
+## Tools Used
+Excel - Data cleaning and preprocessing
+Tableau - Interactive dashboards, maps, visual storytelling
+
+## Expected Insights
+The analysis is expected to:
+- Identify counties with the greatest healthcare access gaps.
+- Highlight inequities in healthcare workforce distribution.
+- Reveal relationships between poverty and healthcare accessibility.
+- Support county-level resource allocation decisions.
+- Provide an evidence-based framework for improving Universal Health Coverage (UHC).
