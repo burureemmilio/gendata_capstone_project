@@ -1,23 +1,48 @@
 # gendata_capstone_project
 # Kenya Healthcare Access Data Storytelling Project
 
-## Problem Definition
+## Problem Statement
 
-Access to quality healthcare remains uneven across Kenya’s counties. While some counties have relatively strong healthcare infrastructure, adequate staffing, and accessible medical facilities, others experience shortages of hospitals, healthcare workers, equipment, and essential services.
+Access to quality healthcare remains uneven across Kenya despite continued investments in the health sector. Significant disparities exist between counties in the availability of healthcare facilities, healthcare workers, infrastructure, and essential health services. Rural populations often travel long distances to access medical care, while poverty, population growth, and unequal distribution of resources continue to widen healthcare inequalities.
+These disparities limit the country's progress toward Universal Health Coverage (UHC) and Sustainable Development Goal 3 (Good Health and Well-being). Policymakers require integrated and accessible data to identify underserved regions, prioritize investments, and improve health outcomes.
+This project combines healthcare infrastructure, demographic, and socioeconomic datasets to create an interactive dashboard that highlights healthcare accessibility gaps across Kenya and supports data-driven decision-making.
 
-These differences are influenced by factors such as population size, poverty levels, geographic location, urban–rural inequalities, availability of health facilities, distance to healthcare centres, and the distribution of medical personnel. As a result, residents in underserved counties may have to travel long distances, experience delays in receiving treatment, or fail to access essential healthcare services altogether.
+## Problem Objectives
+The primary objective of this project is to evaluate healthcare accessibility across Kenya by analyzing healthcare infrastructure, workforce distribution, population needs, and socioeconomic indicators.
+Specifically, the project seeks to:
 
-Healthcare data is often presented in separate tables or reports, making it difficult for policymakers, healthcare organizations, and the public to understand how different access indicators relate to one another. There is therefore a need to combine and visualize healthcare, population, infrastructure, and socioeconomic data in a clear and engaging way.
-
-This project will use data storytelling to examine healthcare access across Kenyan counties, identify regional inequalities, highlight the counties and populations facing the greatest access challenges, and explore the factors associated with these gaps. The final interactive Tableau dashboard will transform the data into a visual story that supports evidence-based decision-making and helps stakeholders understand where healthcare resources and interventions may be most urgently needed.
+- Measure disparities in healthcare access across counties.
+- Identify counties with inadequate healthcare infrastructure.
+- Compare healthcare resources against population needs.
+- Explore the relationship between poverty and healthcare access.
+- Present findings through interactive dashboards that support policy planning.
 
 ## Research Questions
-1. How does the number of healthcare facilities per 100,000 people vary across counties?
-2. Which counties have the highest population pressure per healthcare facility?
-3. How does health-insurance coverage vary across counties?
-4. Is poverty associated with lower healthcare access and utilization?
-5. Which counties have low facility availability?
-6. Which counties should be prioritized for healthcare investment?
+
+### 1. Healthcare Infrastructure
+Which counties have the fewest healthcare facilities relative to their population?
+How evenly are hospitals, health centers, and dispensaries distributed across Kenya?
+Which counties experience the greatest healthcare infrastructure shortages?
+
+### 2. Healthcare Workforce
+Which counties have the lowest doctor-to-population ratio?
+Which counties experience shortages of nurses and clinical officers?
+How does healthcare workforce availability compare across regions?
+
+### 3. Population Access
+Which counties have the largest populations with limited access to healthcare services?
+How does healthcare facility density vary by county?
+Which regions require additional healthcare investment?
+
+### 4. Socioeconomic Factors
+Is there a relationship between poverty levels and healthcare access?
+Do counties with higher poverty rates also experience poorer healthcare infrastructure?
+Which counties face multiple disadvantages in healthcare accessibility?
+
+### 5. Overall Development
+Which counties perform best and worst in overall healthcare accessibility?
+How can counties be ranked using a Healthcare Access Index?
+What regional patterns emerge when healthcare indicators are combined?
 
 ## Data Source
 [Kenya Demographic and Health Survey](https://www.knbs.or.ke/reports/kdhs-2022/?utm_source=chatgpt.com),
